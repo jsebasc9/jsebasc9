@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @jsebasc9
-- 👀 I’m interested in develop videogames
-- 🌱 I’m currently learning python c++ and more
-- 💞️ I’m looking to collaborate on any C++ porject
-- 📫 How to reach me ...
+- 👀 I’m interested in applications development
+- 📫 How to reach me: https://www.linkedin.com/in/juansecal/
 
 <!---
 jsebasc9/jsebasc9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
